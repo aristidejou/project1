@@ -1,4 +1,0 @@
-premier
-
-troisieme
-quatrieme
